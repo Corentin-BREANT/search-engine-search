@@ -27,7 +27,6 @@ Moteur de recherche trouvé
 
 Compte Rendu sur les critères pour choisir les solutions utilisable
 ===================================================================
-* plusieurs point nécessaire pour qu'un moteur de recherche soit envisageable:
 * Classification des requêtes
 * Synonimie nécessaire
 * Nécéssité d'une typo-tolérance
