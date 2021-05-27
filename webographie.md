@@ -1,3 +1,8 @@
+Typo-tolérant et synonimie définition:
+======================================
+[Typo-tolérant](https://www.algolia.com/doc/guides/managing-results/optimize-search-results/typo-tolerance/)
+[synonymie](https://www.linternaute.fr/dictionnaire/fr/definition/synonymie/)
+
 Première recherche aboutissant à Wuha et Outmind
 ================================================
 * [Challenges](https://www.challenges.fr/start-up/outmind-le-moteur-de-recherche-interne-des-entreprises_756710)
@@ -28,3 +33,8 @@ Nouvelle recherche plus exhaustif
 * [awesome open source](https://awesomeopensource.com/projects/search-engine)
 * [libhunt](https://selfhosted.libhunt.com/yacy_search_server-alternatives)
 * [libhunt](https://selfhosted.libhunt.com/yacy_search_server-alternatives)
+
+Recherche sur les critères de moteur de recherche
+=================================================
+* [geekflare](https://geekflare.com/fr/self-hosted-search-engine-software/#:~:text=taille%201%2D2.-,MeiliSearch,que%20vous%20rencontrerez%20est%20MeiliSearch.)
+* [reddit](https://www.reddit.com/r/selfhosted/comments/3vq4ae/self_hosted_search_engine/)
