@@ -30,7 +30,7 @@ Compte Rendu sur les critères pour choisir les solutions utilisable
 * Classification des requêtes
 * Synonimie nécessaire
 * Nécéssité d'une typo-tolérance
-* Aucune relation avec une personne moral ou physique extérieur à la mairie.
+* Aucun envoie de données à une entreprise
 * Open source
 * Précis et puissant
 * Installation et maintenance simples
