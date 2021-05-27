@@ -1,10 +1,5 @@
 Compte Rendu Recherche sur les moteurs de recherches
 =====================================================
-plusieurs point nécessaire pour qu'un moteur de recherche soit envisageable:
-* Classification des requêtes
-* Synonimie nécessaire
-* Nécéssité d'une typo-tolérance
-* Aucune relation avec une personne moral ou physique extérieur à la mairie.
 
 Moteur de recherche trouvé
 ==========================
@@ -29,3 +24,15 @@ Moteur de recherche trouvé
 * Natlas
 * Ambar
 * Apache Solr
+
+Compte Rendu sur les critères pour choisir les solutions utilisable
+===================================================================
+* plusieurs point nécessaire pour qu'un moteur de recherche soit envisageable:
+* Classification des requêtes
+* Synonimie nécessaire
+* Nécéssité d'une typo-tolérance
+* Aucune relation avec une personne moral ou physique extérieur à la mairie.
+* Open source
+* Précis et puissant
+* Installation et maintenance simples
+* Accessible via un API REST
