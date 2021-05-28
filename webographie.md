@@ -38,3 +38,5 @@ Recherche sur les critères de moteur de recherche
 =================================================
 * [geekflare](https://geekflare.com/fr/self-hosted-search-engine-software/#:~:text=taille%201%2D2.-,MeiliSearch,que%20vous%20rencontrerez%20est%20MeiliSearch.)
 * [reddit](https://www.reddit.com/r/selfhosted/comments/3vq4ae/self_hosted_search_engine/)
+* [slant](https://www.slant.co/topics/2934/~best-self-hosted-search-engines)
+* [geekflare](https://geekflare.com/fr/self-hosted-wiki-software/)
