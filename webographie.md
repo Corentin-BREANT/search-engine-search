@@ -40,3 +40,11 @@ Recherche sur les critères de moteur de recherche
 * [reddit](https://www.reddit.com/r/selfhosted/comments/3vq4ae/self_hosted_search_engine/)
 * [slant](https://www.slant.co/topics/2934/~best-self-hosted-search-engines)
 * [geekflare](https://geekflare.com/fr/self-hosted-wiki-software/)
+
+
+Liens des moteurs de recherche de la liste
+==========================================
+* [MeiliSearch](https://www.meilisearch.com/)
+* [YaCy](https://yacy.net/)
+* [Apache Lucene](https://lucene.apache.org/)
+* [Elasticsearch](https://www.elastic.co/fr/elasticsearch/)
