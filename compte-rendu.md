@@ -35,3 +35,10 @@ Compte Rendu sur les critères pour choisir les solutions utilisable
 * Précis et puissant
 * Installation et maintenance simples
 * Accessible via un API REST
+
+Nouvelle liste des moteurs de recherches après filtrage avec les critères
+=========================================================================
+* MeiliSearch
+* Yacy
+* Lucene
+* ElasticSearch
