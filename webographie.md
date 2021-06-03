@@ -48,3 +48,14 @@ Liens des moteurs de recherche de la liste
 * [YaCy](https://yacy.net/)
 * [Apache Lucene](https://lucene.apache.org/)
 * [Elasticsearch](https://www.elastic.co/fr/elasticsearch/)
+
+
+Documentation d'installation de WSL2
+=====================================
+* [Microsoft](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10)
+
+Documentation concernant les problèmes de mise à jour windows
+=============================================================
+[réparer windows update](https://lecrabeinfo.net/reparer-windows-update-echec-mises-a-jour-et-erreurs.html#n4-reparer-windows)
+[réparer windows 10 sans perdre ces données](https://lecrabeinfo.net/reparer-windows-10-sans-perdre-ses-donnees.html#methode-n3-avec-une-cle-usb-dinstallation-de-windows-10)
+
