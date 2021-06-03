@@ -4,5 +4,5 @@ Search engine search est un projet de recherche de solutions vis-à-vis d'un mot
 ## compte-rendu.md
 compte rendu des recherches éxécuté.
 
-### resolution-de-probleme
+## resolution-de-probleme
 Fichier dans lequel se trouve les résolution ainsi que l'explication des problèmes encourus
