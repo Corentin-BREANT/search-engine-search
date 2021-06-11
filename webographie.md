@@ -59,4 +59,8 @@ Documentation concernant les problèmes de mise à jour windows
 * [réparer windows update](https://lecrabeinfo.net/reparer-windows-update-echec-mises-a-jour-et-erreurs.html#n4-reparer-windows)
 * [réparer windows 10 sans perdre ces données](https://lecrabeinfo.net/reparer-windows-10-sans-perdre-ses-donnees.html#methode-n3-avec-une-cle-usb-dinstallation-de-windows-10)
 
+Documentation d'installation de MeiliSearch et de ElasticSearch
+===============================================================
+* [MeiliSearch](https://docs.meilisearch.com/create/how_to/running_production.html)
+* [ElasticSearch](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-18-04-fr)
 
